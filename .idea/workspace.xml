@@ -1,0 +1,927 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72c85b44-813a-48e0-ba95-c0a03ed0207b" name="Default" comment="">
+<<<<<<< HEAD
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BISDAC_Airtable_Interfacing.py" afterPath="$PROJECT_DIR$/BISDAC_Airtable_Interfacing.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logicDebug.py" afterPath="$PROJECT_DIR$/logicDebug.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/serialCommInterface.py" afterPath="$PROJECT_DIR$/serialCommInterface.py" />
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BISDAC_Airtable_Interfacing.py" afterPath="$PROJECT_DIR$/BISDAC_Airtable_Interfacing.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logicDebug.py" afterPath="$PROJECT_DIR$/logicDebug.py" />
+>>>>>>> 81718243173d553d22886d9b3e887130363a369e
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="BISDAC_Airtable_Interfacing.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BISDAC_Airtable_Interfacing.py">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="704">
+              <caret line="481" column="32" lean-forward="false" selection-start-line="481" selection-start-column="32" selection-end-line="481" selection-end-column="32" />
+=======
+            <state relative-caret-position="243">
+              <caret line="465" column="0" lean-forward="true" selection-start-line="465" selection-start-column="0" selection-end-line="465" selection-end-column="0" />
+>>>>>>> 81718243173d553d22886d9b3e887130363a369e
+              <folding>
+                <element signature="e#851#880#0" expanded="true" />
+                <element signature="e#2119#5097#0" expanded="false" />
+                <element signature="e#5144#7595#0" expanded="false" />
+                <element signature="e#5144#5819#1" expanded="false" />
+<<<<<<< HEAD
+                <element signature="e#7646#9289#0" expanded="false" />
+                <element signature="e#8048#8246#0" expanded="false" />
+                <element signature="e#24072#26014#0" expanded="false" />
+=======
+                <element signature="e#5859#7505#0" expanded="false" />
+                <element signature="e#7646#9289#0" expanded="false" />
+                <element signature="e#8048#8246#0" expanded="false" />
+                <element signature="e#9335#10636#0" expanded="false" />
+                <element signature="e#10666#11590#0" expanded="false" />
+                <element signature="e#11617#13498#0" expanded="false" />
+                <element signature="e#22696#24638#0" expanded="false" />
+                <element signature="e#24679#27266#0" expanded="false" />
+                <element signature="e#27314#28821#0" expanded="false" />
+                <element signature="e#28891#32030#0" expanded="false" />
+>>>>>>> 81718243173d553d22886d9b3e887130363a369e
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="serialCommInterface.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/serialCommInterface.py">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="495">
+              <caret line="303" column="79" lean-forward="false" selection-start-line="303" selection-start-column="79" selection-end-line="303" selection-end-column="79" />
+=======
+            <state relative-caret-position="-34">
+              <caret line="321" column="0" lean-forward="false" selection-start-line="321" selection-start-column="0" selection-end-line="321" selection-end-column="0" />
+>>>>>>> 81718243173d553d22886d9b3e887130363a369e
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
+                <element signature="e#360#663#1" expanded="false" />
+                <element signature="e#1054#1489#1" expanded="false" />
+                <element signature="e#1518#1918#0" expanded="false" />
+                <element signature="e#1921#2029#1" expanded="false" />
+                <element signature="e#2216#2792#0" expanded="false" />
+                <element signature="e#3169#3504#0" expanded="false" />
+                <element signature="e#3544#3775#0" expanded="false" />
+                <element signature="e#3777#3928#1" expanded="false" />
+                <element signature="e#3953#4160#0" expanded="false" />
+                <element signature="e#4162#4220#1" expanded="false" />
+<<<<<<< HEAD
+=======
+                <marker date="1512422019105" expanded="false" signature="9497:11409" ph="..." />
+>>>>>>> 81718243173d553d22886d9b3e887130363a369e
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logicDebug.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/logicDebug.py">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="55">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+=======
+            <state relative-caret-position="653">
+              <caret line="209" column="22" lean-forward="true" selection-start-line="209" selection-start-column="22" selection-end-line="209" selection-end-column="22" />
+>>>>>>> 81718243173d553d22886d9b3e887130363a369e
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+                <element signature="e#2043#2718#1" expanded="false" />
+                <element signature="e#2790#3277#0" expanded="false" />
+                <element signature="e#3322#3520#0" expanded="false" />
+                <element signature="e#4516#5443#0" expanded="false" />
+                <element signature="e#4757#5048#0" expanded="false" />
+                <element signature="e#5095#5280#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GLOBALs.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GLOBALs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>robbie</find>
+      <find>barcode</find>
+      <find>sendTes</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/GLOBALs.py" />
+        <option value="$PROJECT_DIR$/serialCommInterface.py" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/logicDebug.py" />
+        <option value="$PROJECT_DIR$/BISDAC_Airtable_Interfacing.py" />
+=======
+        <option value="$PROJECT_DIR$/BISDAC_Airtable_Interfacing.py" />
+        <option value="$PROJECT_DIR$/logicDebug.py" />
+>>>>>>> 81718243173d553d22886d9b3e887130363a369e
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="3226" />
+    <option name="height" value="1814" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyPep8NamingInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bisdac" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bisdac" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bisdac" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bisdac" type="462c0819:PsiDirectoryNode" />
+              <item name="airtable" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GooeyExamples" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\robbi_000\PycharmProjects\Bisdac GUI" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.logicDebug">
+    <configuration name="BISDAC_Airtable_Interfacing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Bisdac GUI" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BISDAC_Airtable_Interfacing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="logicDebug" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Bisdac GUI" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logicDebug.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Python.BISDAC_Airtable_Interfacing" />
+      <item index="1" class="java.lang.String" itemvalue="Python.logicDebug" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.logicDebug" />
+        <item index="1" class="java.lang.String" itemvalue="Python.BISDAC_Airtable_Interfacing" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72c85b44-813a-48e0-ba95-c0a03ed0207b" name="Default" comment="" />
+      <created>1509567198535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1509567198535</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1613" height="913" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12257661" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35118306" sideWeight="0.50218886" order="14" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21544209" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
+=======
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1992528" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+>>>>>>> 81718243173d553d22886d9b3e887130363a369e
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28393525" sideWeight="0.49781114" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BISDAC_Airtable_Interfacing.py</url>
+          <line>398</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BISDAC_Airtable_Interfacing.py</url>
+          <line>370</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/logicDebug.py</url>
+          <line>207</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="116" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="timeDiff" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/airtable/airtable_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2533">
+          <caret line="152" column="54" lean-forward="false" selection-start-line="152" selection-start-column="54" selection-end-line="152" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/airtable/airtable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="39" column="23" lean-forward="false" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/airtable/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pySerialListener.py" />
+    <entry file="file://$PROJECT_DIR$/BISDAC_Airtable_Interfacing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#851#880#0" expanded="true" />
+            <element signature="e#2119#5097#0" expanded="false" />
+            <element signature="e#5144#7595#0" expanded="false" />
+            <element signature="e#5144#5819#1" expanded="false" />
+<<<<<<< HEAD
+            <element signature="e#7646#9289#0" expanded="false" />
+            <element signature="e#8048#8246#0" expanded="false" />
+            <element signature="e#24072#26014#0" expanded="false" />
+=======
+            <element signature="e#5859#7505#0" expanded="false" />
+            <element signature="e#7646#9289#0" expanded="false" />
+            <element signature="e#8048#8246#0" expanded="false" />
+            <element signature="e#9335#10636#0" expanded="false" />
+            <element signature="e#10666#11590#0" expanded="false" />
+            <element signature="e#11617#13498#0" expanded="false" />
+            <element signature="e#22696#24638#0" expanded="false" />
+            <element signature="e#24679#27266#0" expanded="false" />
+            <element signature="e#27314#28821#0" expanded="false" />
+            <element signature="e#28891#32030#0" expanded="false" />
+>>>>>>> 81718243173d553d22886d9b3e887130363a369e
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logicDebug.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#2043#2718#1" expanded="false" />
+            <element signature="e#2790#3277#0" expanded="false" />
+            <element signature="e#3322#3520#0" expanded="false" />
+            <element signature="e#4516#5443#0" expanded="false" />
+            <element signature="e#4757#5048#0" expanded="false" />
+            <element signature="e#5095#5280#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/airtable/airtable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="39" column="23" lean-forward="false" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/airtable/airtable_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2533">
+          <caret line="152" column="54" lean-forward="false" selection-start-line="152" selection-start-column="54" selection-end-line="152" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/airtable/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pySerialListener.py" />
+    <entry file="file://$PROJECT_DIR$/BISDAC_Airtable_Interfacing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#851#880#0" expanded="true" />
+            <element signature="e#2119#5097#0" expanded="false" />
+            <element signature="e#5144#7595#0" expanded="false" />
+            <element signature="e#5144#5819#1" expanded="false" />
+<<<<<<< HEAD
+            <element signature="e#7646#9289#0" expanded="false" />
+            <element signature="e#8048#8246#0" expanded="false" />
+            <element signature="e#24072#26014#0" expanded="false" />
+=======
+            <element signature="e#5859#7505#0" expanded="false" />
+            <element signature="e#7646#9289#0" expanded="false" />
+            <element signature="e#8048#8246#0" expanded="false" />
+            <element signature="e#9335#10636#0" expanded="false" />
+            <element signature="e#10666#11590#0" expanded="false" />
+            <element signature="e#11617#13498#0" expanded="false" />
+            <element signature="e#22696#24638#0" expanded="false" />
+            <element signature="e#24679#27266#0" expanded="false" />
+            <element signature="e#27314#28821#0" expanded="false" />
+            <element signature="e#28891#32030#0" expanded="false" />
+>>>>>>> 81718243173d553d22886d9b3e887130363a369e
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logicDebug.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#2043#2718#1" expanded="false" />
+            <element signature="e#2790#3277#0" expanded="false" />
+            <element signature="e#3322#3520#0" expanded="false" />
+            <element signature="e#4516#5443#0" expanded="false" />
+            <element signature="e#4757#5048#0" expanded="false" />
+            <element signature="e#5095#5280#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/airtable/airtable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="39" column="23" lean-forward="false" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/airtable/airtable_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2533">
+          <caret line="152" column="54" lean-forward="false" selection-start-line="152" selection-start-column="54" selection-end-line="152" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/airtable/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pySerialListener.py" />
+    <entry file="file://$PROJECT_DIR$/BISDAC_Airtable_Interfacing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#851#880#0" expanded="true" />
+            <element signature="e#2119#5097#0" expanded="false" />
+            <element signature="e#5144#7595#0" expanded="false" />
+            <element signature="e#5144#5819#1" expanded="false" />
+<<<<<<< HEAD
+            <element signature="e#7646#9289#0" expanded="false" />
+            <element signature="e#8048#8246#0" expanded="false" />
+            <element signature="e#24072#26014#0" expanded="false" />
+=======
+            <element signature="e#5859#7505#0" expanded="false" />
+            <element signature="e#7646#9289#0" expanded="false" />
+            <element signature="e#8048#8246#0" expanded="false" />
+            <element signature="e#9335#10636#0" expanded="false" />
+            <element signature="e#10666#11590#0" expanded="false" />
+            <element signature="e#11617#13498#0" expanded="false" />
+            <element signature="e#22696#24638#0" expanded="false" />
+            <element signature="e#24679#27266#0" expanded="false" />
+            <element signature="e#27314#28821#0" expanded="false" />
+            <element signature="e#28891#32030#0" expanded="false" />
+>>>>>>> 81718243173d553d22886d9b3e887130363a369e
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logicDebug.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#2043#2718#1" expanded="false" />
+            <element signature="e#2790#3277#0" expanded="false" />
+            <element signature="e#3322#3520#0" expanded="false" />
+            <element signature="e#4516#5443#0" expanded="false" />
+            <element signature="e#4757#5048#0" expanded="false" />
+            <element signature="e#5095#5280#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/airtable/airtable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="39" column="23" lean-forward="false" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/airtable/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/airtable/airtable_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2533">
+          <caret line="152" column="54" lean-forward="false" selection-start-line="152" selection-start-column="54" selection-end-line="152" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pySerialListener.py" />
+    <entry file="file://$PROJECT_DIR$/BISDAC_Airtable_Interfacing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#851#880#0" expanded="true" />
+            <element signature="e#2119#5097#0" expanded="false" />
+            <element signature="e#5144#7595#0" expanded="false" />
+            <element signature="e#5144#5819#1" expanded="false" />
+<<<<<<< HEAD
+            <element signature="e#7646#9289#0" expanded="false" />
+            <element signature="e#8048#8246#0" expanded="false" />
+            <element signature="e#24072#26014#0" expanded="false" />
+=======
+            <element signature="e#5859#7505#0" expanded="false" />
+            <element signature="e#7646#9289#0" expanded="false" />
+            <element signature="e#8048#8246#0" expanded="false" />
+            <element signature="e#9335#10636#0" expanded="false" />
+            <element signature="e#10666#11590#0" expanded="false" />
+            <element signature="e#11617#13498#0" expanded="false" />
+            <element signature="e#22696#24638#0" expanded="false" />
+            <element signature="e#24679#27266#0" expanded="false" />
+            <element signature="e#27314#28821#0" expanded="false" />
+            <element signature="e#28891#32030#0" expanded="false" />
+>>>>>>> 81718243173d553d22886d9b3e887130363a369e
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/airtable/airtable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="39" column="23" lean-forward="false" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/airtable/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pySerialListener.py" />
+    <entry file="file://$PROJECT_DIR$/BISDAC_Airtable_Interfacing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#851#880#0" expanded="true" />
+            <element signature="e#2119#5097#0" expanded="false" />
+            <element signature="e#5144#7595#0" expanded="false" />
+            <element signature="e#5144#5819#1" expanded="false" />
+<<<<<<< HEAD
+            <element signature="e#7646#9289#0" expanded="false" />
+            <element signature="e#8048#8246#0" expanded="false" />
+            <element signature="e#24072#26014#0" expanded="false" />
+=======
+            <element signature="e#5859#7505#0" expanded="false" />
+            <element signature="e#7646#9289#0" expanded="false" />
+            <element signature="e#8048#8246#0" expanded="false" />
+            <element signature="e#9335#10636#0" expanded="false" />
+            <element signature="e#10666#11590#0" expanded="false" />
+            <element signature="e#11617#13498#0" expanded="false" />
+            <element signature="e#22696#24638#0" expanded="false" />
+            <element signature="e#24679#27266#0" expanded="false" />
+            <element signature="e#27314#28821#0" expanded="false" />
+            <element signature="e#28891#32030#0" expanded="false" />
+>>>>>>> 81718243173d553d22886d9b3e887130363a369e
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/airtable/airtable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pySerialListener.py" />
+    <entry file="file://$PROJECT_DIR$/BISDAC_Airtable_Interfacing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#851#880#0" expanded="true" />
+            <element signature="e#2119#5097#0" expanded="false" />
+            <element signature="e#5144#7595#0" expanded="false" />
+            <element signature="e#5144#5819#1" expanded="false" />
+<<<<<<< HEAD
+            <element signature="e#7646#9289#0" expanded="false" />
+            <element signature="e#8048#8246#0" expanded="false" />
+            <element signature="e#24072#26014#0" expanded="false" />
+=======
+            <element signature="e#5859#7505#0" expanded="false" />
+            <element signature="e#7646#9289#0" expanded="false" />
+            <element signature="e#8048#8246#0" expanded="false" />
+            <element signature="e#9335#10636#0" expanded="false" />
+            <element signature="e#10666#11590#0" expanded="false" />
+            <element signature="e#11617#13498#0" expanded="false" />
+            <element signature="e#22696#24638#0" expanded="false" />
+            <element signature="e#24679#27266#0" expanded="false" />
+            <element signature="e#27314#28821#0" expanded="false" />
+            <element signature="e#28891#32030#0" expanded="false" />
+>>>>>>> 81718243173d553d22886d9b3e887130363a369e
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/airtable/airtable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pySerialListener.py" />
+    <entry file="file://$PROJECT_DIR$/BISDAC_Airtable_Interfacing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#851#880#0" expanded="true" />
+            <element signature="e#2119#5097#0" expanded="false" />
+            <element signature="e#5144#7595#0" expanded="false" />
+            <element signature="e#5144#5819#1" expanded="false" />
+<<<<<<< HEAD
+            <element signature="e#7646#9289#0" expanded="false" />
+            <element signature="e#8048#8246#0" expanded="false" />
+            <element signature="e#24072#26014#0" expanded="false" />
+=======
+            <element signature="e#5859#7505#0" expanded="false" />
+            <element signature="e#7646#9289#0" expanded="false" />
+            <element signature="e#8048#8246#0" expanded="false" />
+            <element signature="e#9335#10636#0" expanded="false" />
+            <element signature="e#10666#11590#0" expanded="false" />
+            <element signature="e#11617#13498#0" expanded="false" />
+            <element signature="e#22696#24638#0" expanded="false" />
+            <element signature="e#24679#27266#0" expanded="false" />
+            <element signature="e#27314#28821#0" expanded="false" />
+            <element signature="e#28891#32030#0" expanded="false" />
+>>>>>>> 81718243173d553d22886d9b3e887130363a369e
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pySerialListener.py" />
+    <entry file="file://$PROJECT_DIR$/BISDAC_Interfacing" />
+    <entry file="file://$PROJECT_DIR$/../airtable-python-master/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyserial_v0.py" />
+    <entry file="file://$PROJECT_DIR$/airtable/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/airtable/airtable_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="152" column="54" lean-forward="false" selection-start-line="152" selection-start-column="54" selection-end-line="152" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2733">
+          <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/airtable/airtable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="121" column="0" lean-forward="false" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pySerialListener.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/gooey/python_bindings/gooey_decorator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BISDAC_Device_Comm_Standard.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="637">
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="78" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/ssl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="633" column="0" lean-forward="false" selection-start-line="633" selection-start-column="0" selection-end-line="633" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GLOBALs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/tkinter/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-309">
+          <caret line="1996" column="8" lean-forward="false" selection-start-line="1996" selection-start-column="8" selection-end-line="1996" selection-end-column="8" />
+          <folding />
+=======
+    <entry file="file://$PROJECT_DIR$/serialCommInterface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="321" column="0" lean-forward="false" selection-start-line="321" selection-start-column="0" selection-end-line="321" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+            <element signature="e#360#663#1" expanded="false" />
+            <element signature="e#1054#1489#1" expanded="false" />
+            <element signature="e#1518#1918#0" expanded="false" />
+            <element signature="e#1921#2029#1" expanded="false" />
+            <element signature="e#2216#2792#0" expanded="false" />
+            <element signature="e#3169#3504#0" expanded="false" />
+            <element signature="e#3544#3775#0" expanded="false" />
+            <element signature="e#3777#3928#1" expanded="false" />
+            <element signature="e#3953#4160#0" expanded="false" />
+            <element signature="e#4162#4220#1" expanded="false" />
+            <marker date="1512422019105" expanded="false" signature="9497:11409" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logicDebug.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="653">
+          <caret line="209" column="22" lean-forward="true" selection-start-line="209" selection-start-column="22" selection-end-line="209" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#766#798#0" expanded="false" />
+            <element signature="e#1605#2532#0" expanded="false" />
+            <element signature="e#2585#4039#0" expanded="false" />
+            <element signature="e#2761#2923#0" expanded="false" />
+            <element signature="e#4265#4427#0" expanded="false" />
+            <element signature="e#4472#4634#0" expanded="false" />
+            <element signature="e#4679#4877#0" expanded="false" />
+          </folding>
+>>>>>>> 81718243173d553d22886d9b3e887130363a369e
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BISDAC_Airtable_Interfacing.py">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="495">
+          <caret line="303" column="79" lean-forward="false" selection-start-line="303" selection-start-column="79" selection-end-line="303" selection-end-column="79" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+            <element signature="e#360#663#1" expanded="false" />
+            <element signature="e#1054#1489#1" expanded="false" />
+            <element signature="e#1518#1918#0" expanded="false" />
+            <element signature="e#1921#2029#1" expanded="false" />
+            <element signature="e#2216#2792#0" expanded="false" />
+            <element signature="e#3169#3504#0" expanded="false" />
+            <element signature="e#3544#3775#0" expanded="false" />
+            <element signature="e#3777#3928#1" expanded="false" />
+            <element signature="e#3953#4160#0" expanded="false" />
+            <element signature="e#4162#4220#1" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logicDebug.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#2043#2718#1" expanded="false" />
+            <element signature="e#2790#3277#0" expanded="false" />
+            <element signature="e#3322#3520#0" expanded="false" />
+            <element signature="e#4516#5443#0" expanded="false" />
+            <element signature="e#4757#5048#0" expanded="false" />
+            <element signature="e#5095#5280#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BISDAC_Airtable_Interfacing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="481" column="32" lean-forward="false" selection-start-line="481" selection-start-column="32" selection-end-line="481" selection-end-column="32" />
+          <folding>
+=======
+        <state relative-caret-position="243">
+          <caret line="465" column="0" lean-forward="true" selection-start-line="465" selection-start-column="0" selection-end-line="465" selection-end-column="0" />
+          <folding>
+>>>>>>> 81718243173d553d22886d9b3e887130363a369e
+            <element signature="e#851#880#0" expanded="true" />
+            <element signature="e#2119#5097#0" expanded="false" />
+            <element signature="e#5144#7595#0" expanded="false" />
+            <element signature="e#5144#5819#1" expanded="false" />
+<<<<<<< HEAD
+            <element signature="e#7646#9289#0" expanded="false" />
+            <element signature="e#8048#8246#0" expanded="false" />
+            <element signature="e#24072#26014#0" expanded="false" />
+=======
+            <element signature="e#5859#7505#0" expanded="false" />
+            <element signature="e#7646#9289#0" expanded="false" />
+            <element signature="e#8048#8246#0" expanded="false" />
+            <element signature="e#9335#10636#0" expanded="false" />
+            <element signature="e#10666#11590#0" expanded="false" />
+            <element signature="e#11617#13498#0" expanded="false" />
+            <element signature="e#22696#24638#0" expanded="false" />
+            <element signature="e#24679#27266#0" expanded="false" />
+            <element signature="e#27314#28821#0" expanded="false" />
+            <element signature="e#28891#32030#0" expanded="false" />
+>>>>>>> 81718243173d553d22886d9b3e887130363a369e
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

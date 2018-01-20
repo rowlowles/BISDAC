@@ -1,0 +1,81 @@
+OPEN CONNECTION TO USB DEVICE WITH 9600 BAUD USING 8N1
+DEVICE SENDS INFORMATION PACKET
+SEND COMMAND
+OPTIONAL: RESPOND TO DEVICE QUERIES (SEE BELOW)
+RECEIVE RESPONSE
+
+Commands
+HELP <COMMAND>
+	Display information about a command
+	(Useful for testing/manual control, may not be implemented)
+	
+RUN <NAME> <ARGS...>
+	Run a test suite NAME with arguments ARGS
+	Parameters will vary from tests to test
+	EX: RUN DHT_SENSOR_TEST -T 12~32 -H 10~70
+	
+SPEC <NAME>
+	Get test specifications for test suite NAME
+	Test specs will include number of tests, requirements,
+	description, and parameters
+	
+SET <NAME> <ARGS...>
+	Set a system value (e.g. for calibration)
+
+More Commands may become necessary as need arises.
+
+Communication formats:
+1.
+Following connection, device will send information in key pairs in the following format:
+"KEY: Value\n"
+and will terminate the initial info section with an empty line.
+KEY will be all uppercase characters or underscores (_), but
+value may be any ASCII representable string
+
+EX:
+'''
+DEVICE_ID: Unit-1
+HW_REVISION: GRO-2
+FW_VERSION: 1.2.0
+
+'''
+
+2.
+Commands will be sent in the above format
+The device will respond in numerous transactions:
+	The first grouping will be debugging information, test
+	cases, or prompts for input from the computer terminated
+	by an empty line.
+	After this, a result of some form will be communicated
+	as key pairs in the following format:
+	"KEY: Value\n"
+	In the same way as above. This block will be terminated by
+	an empty line.
+	
+Individual commands will all respond with different debugging
+information and responses, to be determined on an individual
+basis.
+
+If the command requires input from the computer, it will send a
+line during the debugging block in the following format:
+"REQ: Prompt\n" where prompt is some prompt for information (That
+may be displayed for the user)
+
+After sending this line, the device will pause, waiting for a one line response from the computer.
+
+EX:
+"
+RUN LED_BOARD_TEST
+Starting LED Board Tests
+Test1: PASS
+Test2: PASS
+REQ: Did the LEDs just turn pink?
+Test3: FAIL
+	Response indicated that lights failed to turn pink.
+Test4: PASS
+Stopping LED Board Tests
+
+NUM_TESTS_RUN: 4
+NUM_FAILURES: 1
+
+"
